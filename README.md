@@ -1,2 +1,2 @@
 # Learn-react
-React courses
+React course
